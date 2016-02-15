@@ -1,6 +1,5 @@
 # HelloWorld
 
-**TODO: Add description**
 
 ## Installation
 
