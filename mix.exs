@@ -51,6 +51,7 @@ defmodule HelloWorld.Mixfile do
       {:earmark, "~> 0.2.1", only: [:docs]},
       {:bbmustache, "~> 1.0.3", only: [:docs]},
       {:meck, "~> 0.8.4"},
+      {:inch_ex, "~> 0.4.0", only: [:docs]},
       {:exrm, "~> 1.0.0-rc7", only: [:dev]},
       {:ex_doc, "~> 0.11.3", only: [:docs]},
       {:getopt, "~> 0.8.2"},
