@@ -1,4 +1,4 @@
-# HelloWorld
+# HelloWorld [![Deps Status](https://beta.hexfaktor.org/badge/all/github/hexfaktor/Hello-World-Everything-Elixir.svg)](https://beta.hexfaktor.org/github/hexfaktor/Hello-World-Everything-Elixir)
 
 
 ## Installation
