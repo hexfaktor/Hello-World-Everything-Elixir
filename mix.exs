@@ -33,7 +33,7 @@ defmodule HelloWorld.Mixfile do
       {:decimal, "~> 1.1.1"},
       {:ranch, "~> 1.2.0"},
       {:plug, "~> 1.1.0"},
-      {:ecto, "~> 1.1.1"},
+      {:ecto, ">= 1.0.0"},
       {:poolboy, "~> 1.5.1"},
       {:hackney, "~> 1.4.8"},
       {:idna, "~> 1.0.3"},
